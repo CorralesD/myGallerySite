@@ -239,6 +239,8 @@ footer.secondFooter {
 .blueberry .pager li.active a span { background: #404040; }
 
 /*------------MEDIA------------*/
+
+
 @media screen and (max-width: 478px) {
     body {
         position: absolute;
