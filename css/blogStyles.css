@@ -21,6 +21,9 @@ h1, h2, h3, h4, h5, h6 {
 
 p {
     padding: 1%;
+    background-color: #405580;
+    color: #fff;
+    opacity: .80;
 }
 
 li {
@@ -197,6 +200,10 @@ footer {
 
 footer p, footer h3 {
     color: #FFF;
+}
+
+footer p {
+    background-color: #333333;
 }
 
 footer p a {
